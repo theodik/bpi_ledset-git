@@ -1,7 +1,7 @@
 # Maintainer: Ondrej Svoboda <theodik@gmail.com>
 
 pkgname=bpi_ledset-git
-pkgver=r8.b2a2031
+pkgver=r9.63a06c2
 pkgrel=1
 pkgdesc="A utility to control the network (PHY-related) LEDs on Banana Pi (original model,\"BPi-M1\")."
 arch=('armv7h')
